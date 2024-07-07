@@ -4,9 +4,9 @@ const querystring = require('querystring');
 // Function to send a POST request
 const sendPostRequest = () => {
   // Replace with your actual data
-  const nin = 119930572032090004; // long number
-  const nss = 933209003154; // long number
-  const phoneNumber = '0551102331'; // phone number
+  const nin = ; // long number
+  const nss = ; // long number
+  const phoneNumber = ''; // phone number
   const wilaya = 15; // wilaya (region or province)
 
   const postData = querystring.stringify({
